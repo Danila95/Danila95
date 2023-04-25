@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a junior front-end developer, based in Tomsk-city (Russia). Currently i work in National Research Tomsk Polytechnic University<br>🌱 I’m currently active learning framework React
+🔭 I am a junior front-end developer, based in Tomsk-city (Russia). Currently i work in National Research Tomsk Polytechnic University<br>🌱 I’m currently active learning library React
 
 
 ## 🌐 Socials:
