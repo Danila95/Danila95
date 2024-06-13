@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I am a junior front-end developer, based in Tomsk-city (Russia). Currently i work in National Research Tomsk Polytechnic University<br>🌱 I’m currently active learning library React
+I am a Frontend Developer who enjoys designing and developing user-friendly and intuitive interfaces to make the user experience as comfortable as possible. based in Tomsk-city (Russia). I love constantly evolving and learning new frontend technologies. In the next two years, I aim to reach the middle level by significantly expanding my professional knowledge and skills 🔭.
 
+In my free time, I practice yoga and strength training at the gym. I also enjoy self-development and have an interest in world history and psychology 🌱.
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23426612) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Danila00000) 
